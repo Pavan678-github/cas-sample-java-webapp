@@ -6,7 +6,7 @@
     <version>0.0.1-SNAPSHOT</version>
     <packaging>war</packaging>
     <name>CAS Example Java Web App</name>
-    <description>A sample web application that exercises the CAS protocol features via the Java CAS Client.</description>
+    <description>A sample web application that exercises the CAS protocol features via the Java CAS Client...</description>
     <build>
         <finalName>cas-sample-java-webapp</finalName>
         <plugins>
