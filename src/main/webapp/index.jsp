@@ -16,7 +16,7 @@
 <body>
 
 <h1>CAS Example Java Web App</h1>
-<p>A sample web application that exercises the CAS protocol features via the Java CAS Client UPDATED.,..</p>
+<p>A sample web application that exercises the CAS protocol features via the Java CAS Client UPDATED.,......</p>
 <hr>
 
 <p><b>Authenticated User Id:</b> <a href="logout.jsp" title="Click here to log out"><%= request.getRemoteUser() %>
